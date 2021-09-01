@@ -1,0 +1,33 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: orangered;
+}
+.header_div{
+    background-color: white;
+    color: violet;
+}
+.header_div p{
+    font-family: 'Roboto',sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_write_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
